@@ -73,18 +73,8 @@ h1 a{
     background-repeat: no-repeat;
     background-position: 8% ;
 }
-#section1:hover {
-    background-position: 15%;
-    transition: 1s;
 
-}
-/* #section1:hover > div {
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-    transition: 6s;
 
-} */
 .leftTextBox{
     position: relative;
     left: 200px;
